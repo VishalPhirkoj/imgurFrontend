@@ -1,0 +1,25 @@
+*{}
+body {
+  background-color: #141518;
+}
+.pText {
+  font-size: smaller;
+}
+.form {
+  margin: 1rem 7rem;
+}
+.form input {
+  width: 90%;
+  background-color: #191919;
+  margin: 3px;
+  padding: 3px;
+  border: none;
+  border-radius: 3px;
+}
+.submitArea {
+  margin: 0 7rem;
+  float: right;
+}
+.text-muted{
+  font-size: smaller;
+}
