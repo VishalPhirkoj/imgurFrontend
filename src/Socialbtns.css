@@ -1,0 +1,24 @@
+.Socialbtns {
+  margin: 1rem 7rem;
+}
+.btnIcon {
+  color: white;
+  background-color: #191919;
+  padding: 10px;
+  font-size: 20px;
+}
+.facebook {
+  border-bottom: 4px solid #4267b2;
+}
+.twitter {
+  border-bottom: 4px solid #1da1f2;
+}
+.apple {
+  border-bottom: 4px solid #fff;
+}
+.google {
+  border-bottom: 4px solid #1da1f2;
+}
+.yahoo {
+  border-bottom: 4px solid #720e9e;
+}
