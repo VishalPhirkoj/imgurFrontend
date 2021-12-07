@@ -1,0 +1,55 @@
+body {
+  /* margin: 0;
+  padding: 0; */
+  background-color: #2e3035;
+  /* overflow-x: hidden; */
+}
+.text-white {
+  font-weight: bold;
+}
+.rightPanel {
+  background-color: #3c424b;
+}
+.leftPanel {
+  background: #eb01a5;
+  background-image: url("./images/signup.svg"),
+    linear-gradient(to left, #89216b, #da4453);
+  background-repeat: no-repeat;
+  background-position: 0 bottom;
+}
+.inputUrl {
+  width: 80%;
+  height: 100%;
+  padding: 5px;
+  border-radius: 3px;
+  background-color: #272a33;
+  color: #fff;
+  border: unset;
+  outline: unset;
+  border: 1px solid rgba(200, 191, 255, 0);
+}
+.choose {
+  cursor: pointer;
+}
+.iconGrp {
+  font-size: small;
+}
+.DropIcon {
+  cursor: pointer;
+  margin-top: 6rem;
+  padding: 2rem 1rem;
+  border: 3px dashed #fff;
+  /* height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+.termText {
+  margin-top: 5px;
+  color: #fff;
+  font-size: 12px;
+}
+.term {
+  font-weight: bold;
+  color: lightgreen;
+}
